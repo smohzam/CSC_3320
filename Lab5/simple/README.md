@@ -1,4 +1,4 @@
-# CSC_3320
+# Simple
 
 Author: Sriram Mohan
 
