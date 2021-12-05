@@ -1,0 +1,66 @@
+   45  cd ~
+   46  mkdir Lab2_P2
+   47  cd Lab2_P2
+   48  cp /home/bbello1/public/RealEstate.csv .
+   49  ls
+   50  man cat
+   51  cat /home/Lab2_P2/RealEstate.csv
+   52  cat /home/bbello1/public/RealEstate.csv .
+
+   53  head /home/bbello1/public/RealEstate.csv .
+   54  head /home/bbello1/public/RealEstatecsv 3
+   55  head /home/bbello1/public/RealEstate.csv 3
+   56  man head
+   57  head -n /home/bbello1/public/RealEstate.csv 3
+   58  man head
+   59  head --n=3 /home/bbello1/public/RealEstate.csv 3
+   60  man head
+   61  head --n 3 /home/bbello1/public/RealEstate.csv 3
+   62  man head
+   63  head -–lines=3 /home/bbello1/public/RealEstate.csv 
+
+   64  wc  /home/bbello1/public/RealEstate.csv
+
+   65  man cat
+   66  cat RealEstate.csv | wc -l
+
+   67  mkdir /home/public
+   68  mkdir home/smohan6/public
+   69  man mkdir
+   70  pwd
+   71  mkdir /home/smohan6/public/
+
+   72  man cp
+   73  cp /home/bbello1/public/RealEstate.csv myRealEstate.csv .
+   74  cp /home/bbello1/public/RealEstate.csv myRealEstate.csv
+   75  pwd
+   76  ls /home/smohan6/public
+   77  ls /home/smohan6/public/
+   78  cp /home/bbello1/public/RealEstate.csv /home/smohan6/public  myRealEstate.csv
+   79  cp /home/bbello1/public/RealEstate.csv  myRealEstate.csv /home/smohan6/public
+
+   80  pwd
+
+   81  ls /home/smohan6/public/
+
+   82  cd home/smohan6/public/
+
+   83  man mkdir
+   84  mkdir -p /public/Regular /public/Submission/Lab2 /public/Submission/Lab3
+   85  mkdir -p /home/smohan6/public/Regular /home/smohan6/public/Submission/Lab2 
+       /home/smohan6/public/Submission/Lab3
+
+   86  man mv
+   87  mv /home/smohan6/public/Regular /home/smohan6/public/Others
+
+   88  cp /home/smohan6/Lab2_P2 /home/smohan6/public/Submissions/Lab2
+   89  man cp
+   90  cp -r /home/smohan6/Lab2_P2 /home/smohan6/public/Submissions/Lab2
+   91  cp -r /home/smohan6/Lab2_P2 /home/smohan6/public/Submission/Lab2
+
+   92  rm /home/smohan6/Lab2_P2
+   93  rm -r /home/smohan6/Lab2_P2
+
+   94  history 
+
+   95 ^D
