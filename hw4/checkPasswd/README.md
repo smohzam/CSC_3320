@@ -11,7 +11,7 @@ How to execute checkPasswd:
       
       The below points are applicable to those with a score greater than -30:
       
-         Passwords without lower case (-20 points), \n Passwords without upper case letters (-20 points), Passwords without numbers (-20 points), Passwords with more than 2 consecutive characters (-20 points)   
+         Passwords without lower case (-20 points) | Passwords without upper case letters (-20 points) | Passwords without numbers (-20 points) | Passwords with more than 2 consecutive characters (-20 points)   
          
   3. Any password with score lesser than -30 is considered unsafe.
   4. Any password with score greater than that is considered safe.
