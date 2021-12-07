@@ -9,7 +9,7 @@ How to execute Hello.c:
 
 How to execute Hello.sh:
   1. Type ./Hello.sh
-  2. The program will display the following:
+  2. The program will display the following: \n
       · "Welcome to computer science society."
       · the date
       · the no.of directories in your /home.
