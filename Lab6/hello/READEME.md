@@ -4,11 +4,11 @@ Author: Sriram Mohan
 
 How to execute Hello.c:
   1. Compile Hello.c.
-  2. Type ./Hello to run it.
+  2. Type ./Hello on the terminal (if required, enable w/ chmod a+x).
   3. The program will display "Hello World", and break line.
 
 How to execute Hello.sh:
-  1. Type ./Hello.sh
+  1. Type ./Hello.sh on the terminal (if required, enable w/ chmod a+x).
   2. The program will display the following: 
       "Welcome to computer science society." --
       the date --
