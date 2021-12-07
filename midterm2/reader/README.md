@@ -6,8 +6,10 @@ How to execute reader:
 1.	Make sure you have all the source C-files and makefiles for this program.
 2.	Also make sure you have source file from which you want to read.
 3.  Type ./reader on the terminal followed by the source file name and the destination file to which you wish save the output (if required, enable w/ chmod a+x).
-  	If you already have created a text file, you can use that as your destination.
+    
+    If you already have created a text file, you can use that as your destination.
     Otherwise, the program will create one for you with the name you specify as the destination.
+    
 4.	You can execute this command multiple times and it will append to that file.
 
 If you haven’t compiled the program yet, do the following:
