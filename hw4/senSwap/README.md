@@ -11,3 +11,5 @@ How to execute senSwap:
  5. The program then displays both the sentences S! and S2.
 
 Note: I have just heard that this was not what the program was meant to do, but it's too late to change anything.
+
+Also, you can use the header file SwapVar.h if you like for your own programs.
