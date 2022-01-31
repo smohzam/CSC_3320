@@ -4,7 +4,7 @@ Author: Sriram Mohan
 
 How to execute regCOVID:
 1.	Compile the program and type ./regCOVID on the terminal (if required, enable w/ chmod a+x).
-2.The program displays a menu. This menu has two options: Register (R) and Exit (X).
+2.  The program displays a menu. This menu has two options: Register (R) and Exit (X).
 3.	Type ‘R’ to register or ‘X’ to exit.
 
   [If you type in any other character]: the program ignores it, and it just stays on the menu.
